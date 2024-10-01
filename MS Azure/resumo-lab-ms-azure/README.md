@@ -19,3 +19,25 @@ Os recursos na nuvem oferecem vantagens como escalabilidade, flexibilidade e eco
 A segurança na nuvem envolve proteções como criptografia de dados, autenticação robusta e controle de acesso, garantindo que as informações sejam armazenadas e transmitidas de forma segura. Fornecedores de nuvem oferecem monitoramento contínuo, detecção de ameaças e backups automáticos, além de seguir normas rigorosas de conformidade para proteger os dados contra acessos não autorizados e ataques cibernéticos.
 
 A disponibilidade na nuvem garante que os serviços e dados estejam acessíveis praticamente o tempo todo, com alta redundância e tolerância a falhas. Provedores de nuvem utilizam múltiplos data centers e mecanismos de recuperação automática para minimizar o tempo de inatividade, assegurando operação contínua e confiável para os usuários.
+
+# Resumo do Lab - Tipos de Serviço na Nuvem
+
+As modalidades de nuvem são classificações baseadas na forma como os serviços e recursos de computação são fornecidos e consumidos. Existem três principais modalidades de nuvem:
+
+## Nuvem Pública:
+* Recursos são oferecidos por provedores externos (como AWS, Microsoft Azure, Google Cloud).
+* A infraestrutura é compartilhada entre múltiplos clientes (multi-tenancy).
+* É escalável e paga conforme o uso, ideal para startups e empresas que não querem manter uma infraestrutura própria.
+* Vantagens: baixo custo inicial, escalabilidade, e manutenção gerida pelo provedor.
+* Desvantagens: menos controle e possíveis preocupações com a privacidade e segurança de dados.
+
+## Nuvem Privada:
+* Infraestrutura é dedicada a uma única organização, podendo ser gerida internamente ou por um provedor externo.
+* Proporciona mais controle, segurança e personalização, sendo usada por empresas com requisitos rígidos de conformidade ou dados sensíveis.
+* Pode estar localizada no data center da própria empresa ou em uma instalação de terceiros.
+* Vantagens: maior controle e segurança.
+* Desvantagens: custo elevado de implementação e manutenção, além de menor escalabilidade em comparação à nuvem pública.
+
+## Nuvem Híbrida:
+* Combina a nuvem pública e privada, permitindo que dados e aplicações sejam compartilhados entre ambas as infraestruturas.
+*As empresas podem manter operações críticas ou sensíveis em uma nuvem privada, enquanto usam a nuvem pública para operações menos sensíveis ou para obter escalabilidade.
