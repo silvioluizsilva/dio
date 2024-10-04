@@ -1,0 +1,145 @@
+@import url('assets/css/reset.css');
+@import url('assets/fonts/Raleway');
+
+a {
+
+}
+.banner {
+    width: 1440px;
+    height: 605px;
+}
+
+.banner-content {
+    width: Hug (510px)px;
+    height: Hug (393px)px;
+    top: 56px;
+    left: 465px;
+    gap: 16px;
+    background: #000000;
+    opacity: 0.6;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+button {
+    width: Fixed (326px)px;
+    height: Hug (57px)px;
+    top: 473px;
+    left: 557px;
+    padding: 19px 91px 19px 91px;
+    gap: 31px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+}
+
+.banner {
+    width: 1440px;
+    height: 605px;
+    gap: 0px;
+    border: 0px 0px 1px 0px;
+    opacity: 0px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(49, 168, 221, 0) 100%);
+}
+
+.banner-content {
+
+}
+
+#couse-content {
+
+}
+
+.dio-logo {
+
+}
+
+footer {
+
+}
+
+h1 {
+    background: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%);
+}
+
+h2 {
+    font-family: Raleway;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 37.57px;
+    letter-spacing: 0.19em;
+    text-align: center;
+}
+
+head {
+    background: #000000;
+    background: linear-gradient(180deg, #000000 0.6%, #31A8DD 100%);
+}
+
+header {
+
+}
+
+html {
+    display: block;
+}
+
+img {
+
+}
+
+.logo {
+    width: 248px;
+    height: 214px;
+    top: 27px;
+    left: 131px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+main {
+    background: #000000;
+
+}
+
+.module{
+
+}
+
+.modules-list {
+
+}
+
+p {
+    color: #FFFFFF;
+    font-family: Raleway, Garamond, "Times New Roman", Arial;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.48px;
+    text-align: center;
+
+}
+
+
+#professional-challenges {
+    width: 746px;
+    height: 76px;
+    top: 1577px;
+    left: 347px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+section {
+
+}
+
+span {
+
+}
+
+#transform-world {
+
+}
